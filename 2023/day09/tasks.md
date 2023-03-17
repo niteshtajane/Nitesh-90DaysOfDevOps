@@ -1,6 +1,6 @@
 # Day 9 Task: Deep Dive in Git & GitHub for DevOps Engineers.
 
-## Find the answers by your understandings(Shoulden't be copied by internet & used hand-made diagrams)  of below quistions and Write blog on it.
+## Find the answers by your understandings(Shoulden't be copied by internet & used hand-made diagrams)  of below questions and Write blog on it.
 1) What is Git and why is it important?
 2) What is difference Between Main Branch and Master Branch?? 
 3) Can you explain the difference between Git and GitHub?
